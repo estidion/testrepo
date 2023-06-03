@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a94531ff-994a-4321-a3d1-56605c75ae64" name="Changes" comment="test">
       <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+=======
+    <list default="true" id="a94531ff-994a-4321-a3d1-56605c75ae64" name="Changes" comment="">
+>>>>>>> 06009455736e2b672584219678d4c9d4a8e9037e
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685812472232</updated>
       <workItem from="1685812473562" duration="1163000" />
+<<<<<<< HEAD
       <workItem from="1685813660568" duration="1515000" />
     </task>
     <task id="LOCAL-00001" summary="test">
@@ -59,13 +64,20 @@
       <updated>1685814244970</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+      <workItem from="1685813660568" duration="526000" />
+    </task>
+>>>>>>> 06009455736e2b672584219678d4c9d4a8e9037e
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
+=======
+>>>>>>> 06009455736e2b672584219678d4c9d4a8e9037e
 </project>
